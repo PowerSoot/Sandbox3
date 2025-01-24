@@ -29,6 +29,10 @@
 4. Fix the import paths.
 5. Run `npx webpack`.
 
+
+
+>![](6.png)
+
 ### Running webpack
 
 - Node Package eXecute.
