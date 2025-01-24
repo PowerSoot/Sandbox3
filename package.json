@@ -1,0 +1,21 @@
+{
+  "name": "sanboxlevel3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "to-camel-case": "^1.0.0",
+    "to-no-case": "^1.0.2",
+    "to-space-case": "^1.0.0",
+    "webpack": "^5.97.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
